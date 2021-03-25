@@ -1,0 +1,8 @@
+Score,Source IP,FQDN,Connections,Avg. Bytes,Intvl Range,Size Range,Top Intvl,Top Size,Top Intvl Count,Top Size Count,Intvl Skew,Size Skew,Intvl Dispersion,Size Dispersion
+0.834,192.168.6.196,ntp.ubuntu.com,22,155,33,76,2048,76,15,21,0,0,0,0
+0.834,192.168.6.199,ntp.ubuntu.com,29,152,1,0,2048,76,20,29,0,0,0,0
+0.834,192.168.6.197,ntp.ubuntu.com,22,152,1,0,2048,76,16,22,0,0,0,0
+0.834,192.168.6.198,ntp.ubuntu.com,30,152,1,0,2048,76,22,30,0,0,0,0
+0.667,192.168.6.197,cloudflare-dns.com,148,5976,254,356,300,1466,120,70,0,0,0,40
+0.602,192.168.6.199,scanme.nmap.org,927,9130,638,636,79,607,24,288,-0.0322581,0,15,52
+0.458,192.168.6.198,towel.blinkenlights.nl,56,3.69671e+06,2,43896,1084,162968,51,2,0,-0.265306,0,436
